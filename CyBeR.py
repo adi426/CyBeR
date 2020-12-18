@@ -2026,7 +2026,7 @@ def perbarui():
 if __name__=='__main__':
 	menu()
 	masuk()
-[1;91mIsi yang benar"
+print"\033[1;91mIsi yang benar"
 		
 
 def clone_dari_daftar_teman():
