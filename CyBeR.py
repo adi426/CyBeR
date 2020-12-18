@@ -157,7 +157,7 @@ def masuk():
 	os.system('clear')
 	print logo
 	print 50* "\033[1;94m─"
-	print "\033[1;41m\033[1;97m{\033[1;92m01\033[1;97m} LOGIN LEWAT TOKEN !!"
+	print "\033[1;97m{\033[1;92m01\033[1;97m} LOGIN LEWAT TOKEN !!"
 	print "\033[1;97m{\033[1;92m02\033[1;97m} AMBIL TOKEN DISINI:)"
 	print "\033[1;97m{\033[1;91m00\033[1;97m} Keluar"
 	print 50* "\033[1;94m─"
@@ -175,7 +175,7 @@ def pilih_masuk():
 	elif msuk =="0" or msuk =="00":
 		keluar()
 	else:
-		print"\033[1;97m[\033[1;91m!\033[1;97m] YANG BENER COY !"
+		print"\033[1;97m[\033[1;91m!\033[1;97m] CHOICES OPTION !"
 		pilih_masuk()
 		
 #####LOGIN_COOKIE#####
@@ -219,7 +219,7 @@ def tokenz():
 		zedd.write(toket)
 		zedd.close()
 		print '\033[1;97m{\033[1;92m✓\033[1;97m}\033[1;92m Login Berhasil'
-		os.system('xdg-open https://youtube.com/UCYuvXKQaQm08L4015KNBPww')
+		os.system('xdg-open https://youtube.com/channel/UCYuvXKQaQm08L4015KNBPww')
 		bot_komen()
 	except KeyError:
 		print "\033[1;97m{\033[1;91m!\033[1;97m} \033[1;91mToken salah !"
