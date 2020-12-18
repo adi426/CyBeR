@@ -2107,15 +2107,3 @@ def perbarui():
 if __name__=='__main__':
 	menu()
 	masuk()
-masuk()
-pt ...\033[1;93m")
-	os.system("git pull origin master")
-	raw_input("\n\033[1;94m{\033[1;97m<Kembali>\033[1;94m}")
-	os.system("python2 CyBeR.py")
-	
-if __name__=='__main__':
-	menu()
-	masuk()
-_':
-	menu()
-	masuk()
