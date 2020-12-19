@@ -1,4 +1,4 @@
-
+enshot_20201218-231721.png
 
 ☞︎︎︎ pkg update && pkg upgrade
 
