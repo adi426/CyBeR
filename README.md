@@ -1,4 +1,4 @@
-Screenshot_20201218-231721.png
+#CYBER ERROR 404
 
 ☞︎︎︎ pkg update && pkg upgrade
 
